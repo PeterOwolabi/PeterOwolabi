@@ -5,7 +5,7 @@ I am focused on bridging the gap between genetic susceptibility and antimicrobia
 
 - 🔭 **Current Research**: Identifying allosteric sites that pathogens desensitize in *S. Typhimurium* infections.
 - 🤖 **Technical Focus**: Multimodal Transformers, Protein Language Models (ESM-2), and Structural Proteomics.
-- 🎓 **Education**: M.Agric Animal Breeding & Genetics (In Progress).
+- 🎓 **Education**: M.Agric Animal Breeding & Genetics; B.Agriculture.
 - 🌍 **Mission**: Developing sustainable, host-centric alternatives to traditional antibiotics.
 
 ---
